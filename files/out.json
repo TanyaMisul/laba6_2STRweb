@@ -1,0 +1,16 @@
+{
+  "id": "900",
+  "surname": "Аня",
+  "forename": "Мисюль",
+  "patronymic": "Юрьевна",
+  "dob": "мар. 31, 2001",
+  "sex": 1,
+  "passportSeries": "CM",
+  "passportNumber": "123456",
+  "city": "Vitebsk",
+  "address": "Gagarina",
+  "phoneHome": "593-9000",
+  "phoneMobile": "123-4567",
+  "citizenship": "BY",
+  "dutyBound": 1
+}

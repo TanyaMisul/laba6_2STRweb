@@ -1,0 +1,17 @@
+{
+  "id": 5,
+  "surname": "Евгений",
+  "forename": "Субоч",
+  "patronymic": "Михайлович",
+  "dob": "2000-07-23",
+  "sex": 2,
+  "passportSeries": "CR",
+  "passportNumber": 123456,
+  "city": "City",
+  "address": "Street",
+  "phoneHome": "321-7654",
+  "phoneMobile": "789-1234",
+  "citizenship": "BY",
+  "dutyBound": 1,
+  "qtype": "CREATE"
+}

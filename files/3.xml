@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<personXML>
+    <id>400</id>
+    <surname>Даша</surname>
+    <forename>Ахрем</forename>
+    <patronymic>Дмитриевна</patronymic>
+    <dob>2004-04-08</dob>
+    <sex>1</sex>
+    <passportSeries>CM</passportSeries>
+    <passportNumber>123456</passportNumber>
+    <city>Minsk</city>
+    <address>Tolstogo</address>
+    <phoneHome>433-9108</phoneHome>
+    <phoneMobile>765-4321</phoneMobile>
+    <citizenship>BY</citizenship>
+    <dutyBound>2</dutyBound>
+    <qtype>UPDATE</qtype>
+</personXML>

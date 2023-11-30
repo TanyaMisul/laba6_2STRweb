@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<personXML>
+        <id>900</id>
+        <surname>Аня</surname>
+        <forename>Мисюль</forename>
+        <patronymic>Юрьевна</patronymic>
+        <dob>2001-03-31</dob>
+        <sex>1</sex>
+        <passportSeries>CM</passportSeries>
+        <passportNumber>123456</passportNumber>
+        <city>Vitebsk</city>
+        <address>Gagarina</address>
+        <phoneHome>593-9000</phoneHome>
+        <phoneMobile>123-4567</phoneMobile>
+        <citizenship>BY</citizenship>
+        <dutyBound>1</dutyBound>
+        <qtype>DELETE</qtype>
+</personXML>
